@@ -1,0 +1,28 @@
+# REACT_APP_WIDGET_URL = http://localhost:8082/api/widgets
+# REACT_APP_WIDGET_MATERIALS_URL=http://localhost:8082/api/materials
+# REACT_APP_MATERIALS_URL = http://localhost:8083/api/tjebin/materials
+# REACT_APP_FURNITURES_URL=http://localhost:8083/api/tjebin/furnitures
+# REACT_APP_COLORS_URL=http://localhost:8083/api/tjebin/colors
+# REACT_APP_STYLES_URL=http://localhost:8083/api/tjebin/styles
+# REACT_APP_IMAGE_UPLOAD_URL=http://localhost:3004
+# REACT_APP_IMAGE_URL=http://localhost:3004
+# REACT_APP_QUIZZES_URL=http://localhost:3001/api/quizzes
+# REACT_APP_FURNITURE_QUIZZES=http://localhost:3001/api/furnitures
+# REACT_APP_QUESTIONS_URL=http://localhost:3001/api/questions
+
+# Real Urls Updated on 12/20/2023
+
+REACT_APP_WIDGET_URL = https://furniture-widget-server-1eba5151c89b.herokuapp.com/api/widgets
+REACT_APP_WIDGET_MATERIALS_URL=https://furniture-widget-server-1eba5151c89b.herokuapp.com/api/materials
+REACT_APP_MATERIALS_URL = https://furniture-properties-server-8afc50b6d68a.herokuapp.com/api/tjebin/materials
+REACT_APP_FURNITURES_URL=https://furniture-properties-server-8afc50b6d68a.herokuapp.com/api/tjebin/furnitures
+REACT_APP_COLORS_URL=https://furniture-properties-server-8afc50b6d68a.herokuapp.com/api/tjebin/colors
+REACT_APP_STYLES_URL=https://furniture-properties-server-8afc50b6d68a.herokuapp.com/api/tjebin/styles
+REACT_APP_IMAGE_UPLOAD_URL=https://tjebin-image-server.herokuapp.com
+REACT_APP_IMAGE_URL=https://tjebin-image-server.herokuapp.com
+REACT_APP_QUIZZES_URL=https://furniture-quiz-server.herokuapp.com/api/quizzes
+REACT_APP_FURNITURE_QUIZZES=https://furniture-quiz-server.herokuapp.com/api/furnitures
+REACT_APP_QUESTIONS_URL=https://furniture-quiz-server.herokuapp.com/api/questions
+#  REACT_APP_QUIZZES_URL=http://localhost:3001/api/quizzes
+#  REACT_APP_FURNITURE_QUIZZES=http://localhost:3001/api/furnitures
+#  REACT_APP_QUESTIONS_URL=http://localhost:3001/api/questions
